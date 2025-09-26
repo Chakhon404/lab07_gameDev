@@ -3,16 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drk46pes52whg"
-path.s3tc="res://.godot/imported/particle.png-914ce5d0d5fb768c81648aa59f4b15b9.s3tc.ctex"
-metadata={
-"imported_formats": ["s3tc_bptc"],
-"vram_texture": true
-}
+valid=false
 
 [deps]
 
 source_file="res://Assets/Textures/particle.png"
-dest_files=["res://.godot/imported/particle.png-914ce5d0d5fb768c81648aa59f4b15b9.s3tc.ctex"]
 
 [params]
 

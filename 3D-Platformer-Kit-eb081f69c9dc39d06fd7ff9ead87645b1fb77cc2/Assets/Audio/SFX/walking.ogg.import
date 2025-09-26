@@ -3,12 +3,11 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ncq6fpsrcmjh"
-path="res://.godot/imported/walking.ogg-96580d555765f06683e32a3c80344629.oggvorbisstr"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Audio/SFX/walking.ogg"
-dest_files=["res://.godot/imported/walking.ogg-96580d555765f06683e32a3c80344629.oggvorbisstr"]
 
 [params]
 

@@ -3,16 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq675fmt1rg8c"
-path.s3tc="res://.godot/imported/open_eye.png-f4d0926d20496a6cb25a16358dba5311.s3tc.ctex"
-metadata={
-"imported_formats": ["s3tc_bptc"],
-"vram_texture": true
-}
+valid=false
 
 [deps]
 
 source_file="res://Assets/Models/gobot/textures/open_eye.png"
-dest_files=["res://.godot/imported/open_eye.png-f4d0926d20496a6cb25a16358dba5311.s3tc.ctex"]
 
 [params]
 

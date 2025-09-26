@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csae0np4unygg"
-path="res://.godot/imported/SDSplashScreen.png-70dbd3fb2976ebd6d77830919501bab5.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://Assets/Resources/SDSplashScreen.png"
-dest_files=["res://.godot/imported/SDSplashScreen.png-70dbd3fb2976ebd6d77830919501bab5.ctex"]
 
 [params]
 
