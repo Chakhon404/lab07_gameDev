@@ -14,7 +14,7 @@
 [sub_resource type="Sky" id="Sky_r4p77"]
 
 [sub_resource type="Environment" id="Environment_g4ka7"]
-background_mode = 1
+background_mode = 2
 background_color = Color(0.625597, 0.625597, 0.625597, 1)
 background_energy_multiplier = 3.2
 sky = SubResource("Sky_r4p77")
